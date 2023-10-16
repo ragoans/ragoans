@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Rafael</h1>
 <h3 align="center">Um entusiasta da análise e modelagem de dados.</h3>
 
-- 🔭 Eu estou atualmente trabalhando com **Modelos Logísticos**
+- 🔭 Eu estou atualmente trabalhando com **Modelagem e Otimização em Python**
 
-- 🌱 Eu estou atualmente aprendendo **Modelagem Classificatória / Logística em Python**
+- 🌱 Eu estou atualmente aprendendo **Modelagem e Otimização em Python**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/ragoans?tab=repositories](https://github.com/ragoans?tab=repositories)
 
