@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Rafael</h1>
 <h3 align="center">Um entusiasta da análise e modelagem de dados.</h3>
 
-- 🔭 Eu estou atualmente trabalhando com **Case de Análise de Churns** disponível em [[https://github.com/ragoans?tab=repositories](https://github.com/ragoans?tab=repositories)](https://github.com/ragoans/AnaliseDeChurn)
+- 🔭 Eu estou atualmente trabalhando com **Case de Análise de Churns** disponível em (https://github.com/ragoans/AnaliseDeChurn)
 
 - 🌱 Eu estou atualmente aprendendo **Modelos de Clusterização**
 
